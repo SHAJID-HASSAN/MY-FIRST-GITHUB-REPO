@@ -1,0 +1,16 @@
+div{
+    background-color: blueviolet;
+    padding: 20px;
+    margin-bottom: 10px;
+    
+
+}
+h2{
+    background-color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+    inline-size: 20px; 
+    padding-inline: 5px;
+    background-position: center;
+    margin-right: 20px;   
+    font-weight: 1000px;
+}
